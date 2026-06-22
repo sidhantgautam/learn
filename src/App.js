@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello Sidhant!</h1>
+      <h1>Hello Everyone!</h1>
       <p>My first GitHub push.</p>
 
       <button onClick={handleClick}>
