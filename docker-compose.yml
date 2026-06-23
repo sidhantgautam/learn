@@ -1,5 +1,6 @@
 services:
-  react-app:
+  falconx-react:
     build: .
+    container_name: falconx-react
     ports:
       - "3000:3000"
